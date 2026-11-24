@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <signal.h>
 
-//include api route header file here later
+#include "Api/handler.h"
 #include "Api/utils.h"
 
 #define PORT 8080
